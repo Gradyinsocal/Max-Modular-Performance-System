@@ -1,25 +1,3 @@
-# Max-Modular-Performance-System
-MMPS
-│
-├── Documentation
-│   ├── Design Philosophy.md
-│   ├── MMIB Specification.md
-│   ├── Changelog.md
-│   └── Test Plans.md
-│
-├── Core
-│   ├── MMIB Bus
-│   ├── Console Manager
-│   ├── Display Driver
-│   └── Diagnostics
-│
-├── Performance
-│   ├── Performance Manager
-│   ├── Animation
-│   ├── Lighting
-│   └── MMME Integration
-│
-└── Assets
-    ├── Display Atlas
-    ├── VU Textures
-    └── Sample Notecards
+Mission Statement 
+The Max Modular Performance System (MMPS) is a modular performance platform for Second Life that provides a consistent, professional user experience across multiple virtual instruments through a common communication architecture, reusable interface components, and coordinated audio, animation, and lighting systems.
+

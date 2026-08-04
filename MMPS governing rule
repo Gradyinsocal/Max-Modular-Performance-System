@@ -1,0 +1,29 @@
+MMPS governing rule
+
+The performer stations prepare the performers. The console runs the show.
+
+Console responsibilities
+
+The console is the single source of truth for:
+
+performance selection
+shared show clock
+choreography timeline
+music control
+all stage-wide lighting
+Stage Halo
+drum and speaker lighting cues
+stage effects
+start, pause, resume, stop, and emergency stop
+readiness and diagnostics
+Performer station responsibilities
+
+Each local station handles only its own performer:
+
+performer login or seat detection
+role assignment
+instrument selection
+prop rez, attach, replace, and detach
+local animation library
+local readiness state
+reporting status to the console

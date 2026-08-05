@@ -41,3 +41,11 @@ Device Manager never needs to know device-specific code.
 Discovery becomes automatic.
 Diagnostics become automatic.
 Firmware updates become automatic later.
+
+
+MMPS Governing Rule #3
+
+Every configuration change made by a user must be available through the Console.
+If we ever find ourselves saying:
+"Just edit the script..."
+We've broken the rule.

@@ -27,3 +27,17 @@ prop rez, attach, replace, and detach
 local animation library
 local readiness state
 reporting status to the console
+
+
+MMPS Governing Rule #2
+
+Every MMPS device must identify itself using the standard MMPS Device Identity Protocol.
+
+That means:
+
+Future devices work automatically.
+Builder Mode becomes universal.
+Device Manager never needs to know device-specific code.
+Discovery becomes automatic.
+Diagnostics become automatic.
+Firmware updates become automatic later.

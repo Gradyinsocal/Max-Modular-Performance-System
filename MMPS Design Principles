@@ -1,0 +1,95 @@
+MMPS Design Principles
+1. No scripting required
+
+A customer should never need to edit, understand, or even see LSL to use MMPS.
+
+2. Discover, don't configure
+
+Mission Control should find stations automatically.
+
+The owner shouldn't have to tell the Console what exists.
+
+3. Build like a venue owner thinks
+
+Never ask:
+
+Configure Device
+
+Ask:
+
+Set Up Stage Left Guitar
+
+4. Every station is self-describing
+
+A station should tell Mission Control:
+
+who it is
+what it can do
+what services it provides
+what capabilities those services support
+
+Mission Control shouldn't have to guess.
+
+5. One touch, one menu
+
+A station has one owner.
+
+One touch.
+
+One menu.
+
+Everything else is a service behind it.
+
+That alone will make MMPS feel polished.
+
+6. Consistency over cleverness
+
+If a Guitar Station has:
+
+Identity
+Performer
+Lighting
+Props
+Diagnostics
+
+Then every station should present those same concepts whenever they apply.
+
+Owners shouldn't have to relearn the interface.
+
+7. Stations are independent
+
+Deleting one station should never break another.
+
+Adding ten new stations should require no Console update.
+
+8. Mission Control coordinates
+
+Stations perform.
+
+Mission Control coordinates.
+
+That distinction keeps responsibilities clear.
+
+9. Builder tools stay hidden
+
+A venue owner uses:
+
+Mission Control
+
+A builder uses:
+
+Builder Mode
+
+A performer uses:
+
+Join Band
+
+Each person sees only what they need.
+
+10. Ship quality
+
+And finally...
+
+If this were a commercial product, would I be proud to ship this?
+
+Every feature has to answer "yes."

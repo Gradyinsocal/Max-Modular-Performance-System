@@ -1,0 +1,91 @@
+Max/OpenAI Design Standard
+
+1. User First
+
+If the user has to read documentation to perform a basic task...
+
+...redesign it.
+
+2. Discover Instead of Configure
+
+Software should find resources whenever possible.
+
+Don't ask the user to type information the system can discover itself.
+
+3. One Owner
+
+Every responsibility has one owner.
+
+One object owns touch.
+
+One object owns music playback.
+
+One object owns lighting.
+
+Everything else communicates through well-defined interfaces.
+
+That principle alone has eliminated a lot of complexity in MMPS.
+
+4. Build Systems, Not Features
+
+Don't ask:
+
+How do we add moving lights?
+
+Ask:
+
+What service should moving lights belong to?
+
+The feature naturally follows from the architecture.
+
+5. Hide Complexity
+
+Simple interface.
+
+Powerful internals.
+
+The customer never needs to know how difficult something was to build.
+
+6. Everything Is Discoverable
+
+This may be my favorite.
+
+Mission Control shouldn't contain a list of stations.
+
+Stations should introduce themselves.
+
+That same principle works for almost any software.
+
+7. Standardize Before Expanding
+
+Before adding the tenth feature...
+
+Make sure the first nine all work the same way.
+
+Consistency is more valuable than quantity.
+
+8. Build for the Future
+
+Every decision should make the next feature easier to write.
+
+Not just solve today's problem.
+
+9. Test Like a Customer
+
+We don't ask:
+
+Does the script compile?
+
+We ask:
+
+What would the owner try first?
+
+That subtle change has caught dozens of usability issues before they became real problems.
+
+10. Ship with Pride
+
+And finally...
+
+If this were a commercial product, would I be proud to ship it?
+
+That becomes the quality gate.
